@@ -1,5 +1,5 @@
 # NeuralDistance
-### Leveraging neural networks for high-precision object detection and distance measurem
+### Leveraging neural networks for high-precision object detection and realtime distance measurements
 ## Realtime Object Detection and Distance Estimation
 
 This project utilizes the YOLOv3 (You Only Look Once) object detection algorithm to detect objects in images or videos and estimate their distances from the camera. The project also includes a neural network model for distance estimation based on specific object annotations.
