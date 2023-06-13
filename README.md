@@ -1,4 +1,4 @@
-# NeuralDistance: 
+# NeuralDistance
 ### Leveraging neural networks for high-precision object detection and distance measurem
 ## Realtime Object Detection and Distance Estimation
 
