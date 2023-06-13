@@ -14,15 +14,12 @@ The project requires the following dependencies to be installed:
 
 To install the required dependencies, run the following command:
 
-shellCopy code
-
 `pip install -r requirements.txt` 
 
 ## Folder Structure
 
 The project folder structure is as follows:
 
-luaCopy code
 ```
 |-- final.ipynb
 |-- scaler.pkl
@@ -59,8 +56,6 @@ luaCopy code
 ## Data Annotation Format
 
 To train the neural network model for distance estimation, you need to provide object annotations in a CSV file (`annotations.csv`). The annotations should follow the following format:
-
-pythonCopy code
 
 `filename, xmin, ymin, xmax, ymax, distance
 image1.jpg, 100, 50, 200, 150, 2.5
