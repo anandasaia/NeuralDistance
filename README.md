@@ -101,7 +101,7 @@ Additionally, if you process videos or webcam feed, the output will be displayed
 
 ## Neural Network Architecture
 
-The neural network architecture used for distance estimation is a custom model designed specifically for this project. It consists of several convolutional layers followed by fully connected layers. The architecture is trained on the annotated dataset to learn the relationship between object features and their corresponding distances. The trained model (`trained_model.h5`) is used for inference during the distance estimation step.
+The neural network architecture used for distance estimation is a custom model designed specifically for this project. It consists of 3 hidden layers and 1 output layer The architecture is trained on the annotated dataset to learn the relationship between object features and their corresponding distances. The trained model (`trained_model.h5`) is used for inference during the distance estimation step.
 
 ## References
 
